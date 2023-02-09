@@ -1,0 +1,66 @@
+[
+  {
+    "quiz": {
+      "type": "easy",
+      "question": "1.What is the capital of France? 🥖",
+      "answers": [
+        { "name": "Paris", "value": true, "type": "country" },
+        { "name": "Tehran", "value": false, "type": "country" },
+        { "name": "Washington dc", "value": false, "type": "country" },
+        { "name": "Tokyo", "value": false, "type": "country" }
+      ]
+    }
+  },
+  {
+    "quiz": {
+      "type": "Medium",
+      "question": "2.Who was the first president of US? 🦅",
+      "answers": [
+        { "name": "George Washington", "value": true, "type": "president" },
+        { "name": "John Quincy Adams", "value": false, "type": "president" },
+        { "name": "Andrew Jackson", "value": false, "type": "president" },
+        { "name": "Martin Van Buren", "value": false, "type": "president" }
+      ]
+    }
+  },
+  {
+    "quiz": {
+      "type": "Hard",
+      "question": "3.Who inveted pizza? 🍕",
+      "answers": [
+        { "name": "Raffaele Esposito", "value": true, "type": "chef" },
+        { "name": "Guy Fieri", "value": false, "type": "chef" },
+        { "name": "Michael Caines", "value": false, "type": "chef" },
+        { "name": "Bobby Flay", "value": false, "type": "chef" }
+      ]
+    }
+  },
+  {
+    "quiz": {
+      "type": "Medium",
+      "question": "4.Who found this physic formula (e=mc^2)? 🧠",
+      "answers": [
+        {
+          "name": "Girolamo Cardano",
+          "value": false,
+          "type": "mathematicians"
+        },
+        { "name": "Paul Erdös", "value": false, "type": "mathematicians" },
+        { "name": "Albert Einstein", "value": true, "type": "mathematicians" },
+        { "name": "Isaac Newton", "value": false, "type": "mathematicians" }
+      ]
+    }
+  },
+  {
+    "quiz": {
+      "type": "Easy",
+      "question": "5.Where is eiffel tower located? ",
+      "answers": [
+        { "name": "Roma", "value": false, "type": "city" },
+        { "name": "Italy", "value": false, "type": "city" },
+        { "name": "Paris", "value": true, "type": "city" },
+        { "name": "Dubai", "value": false, "type": "city" }
+      ]
+    }
+  }
+]
