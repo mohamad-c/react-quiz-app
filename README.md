@@ -11,6 +11,8 @@ Start JSON Server
 <code>json-server --watch db.json</code>
 <br />
 
+visit project: https://delicate-dusk-8ac096.netlify.app/
+
 <h2>About</h2>
 In this quiz you have 5 questions which you have to answer.<br />
 At the end your correct answers are counted and shown to you.<br />
